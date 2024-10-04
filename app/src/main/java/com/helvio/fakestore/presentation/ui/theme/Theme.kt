@@ -1,4 +1,4 @@
-package com.helvio.fakestore.ui.theme
+package com.helvio.fakestore.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

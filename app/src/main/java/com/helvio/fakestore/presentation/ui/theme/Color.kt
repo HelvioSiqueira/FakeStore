@@ -1,4 +1,4 @@
-package com.helvio.fakestore.ui.theme
+package com.helvio.fakestore.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
